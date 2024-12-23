@@ -1,2 +1,0 @@
-Current MAC:   8a:bf:64:28:d0:df (unknown)
-Permanent MAC: b4:b6:76:e4:3a:b3 (Intel Corporate)

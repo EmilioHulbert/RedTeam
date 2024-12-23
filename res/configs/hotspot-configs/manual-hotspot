@@ -1,4 +1,0 @@
-##hostapd.conf
-
-interface=wlan0
-driver=nl80211
