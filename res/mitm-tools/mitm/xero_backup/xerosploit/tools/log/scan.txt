@@ -1,0 +1,10 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-09-30 14:53 EAT
+Nmap scan report for 192.168.43.1
+Host is up (0.0051s latency).
+MAC Address: 02:08:22:44:0D:55 (Unknown)
+Nmap scan report for 192.168.43.92
+Host is up (0.18s latency).
+MAC Address: 1C:4B:D6:BA:0C:D4 (AzureWave Technology)
+Nmap scan report for 192.168.43.225
+Host is up.
+Nmap done: 256 IP addresses (3 hosts up) scanned in 2.81 seconds

@@ -1,0 +1,7 @@
+start 192.168.28.2
+end 192.168.28.254
+interface wlan0
+opt dns 8.8.8.8
+option subnet 255.255.255.255
+option router 192.168.28.1
+option lease 864000
