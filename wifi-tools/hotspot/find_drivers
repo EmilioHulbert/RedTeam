@@ -1,0 +1,15 @@
+stat --format '%N' /sys/class/net/*/device/driver
+
+format 2
+lshw -class network
+
+#may be  useful links
+https://www.xmodulo.com/network-card-driver-name-version-linux.html
+
+more  linux wireless drivers
+https://www.cyberciti.biz/faq/linux-find-wireless-driver-chipset/
+
+https://askubuntu.com/questions/333424/how-can-i-check-the-information-of-currently-installed-wifi-drivers
+
+change linux interface name
+https://community.mellanox.com/s/article/howto-change-network-interface-name-in-linux-permanently
